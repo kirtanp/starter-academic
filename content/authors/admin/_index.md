@@ -6,7 +6,7 @@ title: Kirtan Padh
 superuser: true
 
 # Role/position
-role: Master's graduate in Computer Science
+role: Computer Science Graduate
 
 # Organizations/Affiliations
 organizations:
