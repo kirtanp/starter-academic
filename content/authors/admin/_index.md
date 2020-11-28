@@ -11,14 +11,14 @@ role: Master's graduate in Computer Science
 # Organizations/Affiliations
 organizations:
 - name: EPFL
-  url: ""
+  url: "https://www.epfl.ch/en/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 interests:
-- Fair and Interpretable Machine Learning
-- Data Science
+- Fairness in Machine learning
+- Interpretable Machine Learning
 - Theoretical Computer Science
 
 education:
@@ -26,9 +26,12 @@ education:
   - course: M.Sc. in Computer Science
     institution: Swiss Federal Institute of Technology (EPFL)
     year: 2020
-  - course: B.S. in Mathematics and Scientific Computing
+  - course: B.S. in Mathematics 
     institution: Indian Institute of Technology Kanpur (IIT Kanpur)
     year: 2016
+  - course: Semester Exchange
+    institution: Swiss Federal Institute of Technology (EPFL)
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,13 +43,10 @@ social:
   link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/_kirtan_
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/kirtanp
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -66,6 +66,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My goal is to build robust, fair, socially beneficial, and theoretically substantiated AI systems. Automated systems increasingly interact with our daily life, influence our behavior, and often control critical parts of society such as job applications and credit scores. This raises concerns about their interpretability, fairness, and long-term consequences, with various examples of unintentional negative consequences of automated decision making systems having emerged recently. My aim is achieve a better understanding of such biases and find ways to mitigate them.
