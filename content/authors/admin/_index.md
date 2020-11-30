@@ -19,6 +19,7 @@ bio:
 interests:
 - Fairness in Machine learning
 - Interpretable Machine Learning
+- AI Regulation
 - Theoretical Computer Science
 
 education:
@@ -67,3 +68,4 @@ user_groups:
 ---
 
 My goal is to build robust, fair, socially beneficial, and theoretically substantiated AI systems. Automated systems increasingly interact with our daily life, influence our behavior, and often control critical parts of society such as job applications and credit scores. This raises concerns about their interpretability, fairness, and long-term consequences, with various examples of unintentional negative consequences of automated decision making systems having emerged recently. My aim is achieve a better understanding of such biases and find ways to mitigate them.
+
