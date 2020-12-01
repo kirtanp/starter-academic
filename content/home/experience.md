@@ -24,7 +24,9 @@ date_format = "Jan 2006"
   location = "Lausanne, Switzerland"
   date_start = "2020-02-01"
   date_end = "2020-09-01"
-  description = """Worked on fairness in machine learning."""
+  description = """
+  Ensured fairness in a customer-oriented decision making system without losing out on utility. Closely involved in the formulation and implementation of the **Ethics in AI principles** of Swisscom, involving discussion with business stakeholders and members of technical teams across the company. Collaboratively implemented a model-agnostic multi-objective framework in PyTorch officially *open-sourced* through Swisscom.
+    """
 
 [[experience]]
   title = "Summer Strats Analyst"
@@ -33,6 +35,6 @@ date_format = "Jan 2006"
   location = "Bengaluru, India"
   date_start = "2016-05-01"
   date_end = "2016-07-01"
-  description = """Worked as a sumemr intern in Goldman Sachs in India."""
+  description = """Designed a model for attributing profit and loss from the stock loan business to client hedge funds. Collaborated with team members to finalize the model and push to production."""
 
 +++
