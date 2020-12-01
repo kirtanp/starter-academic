@@ -32,7 +32,7 @@ projects: []
 publishDate: '2020-11-30T19:40:16.385864Z'
 publication_types:
 - '1'
-abstract: 'Recent  studies  suggest  that  automated  processesthat are prevalent in machine learning (ML) and ar-tificial intelligence (AI) can propagate and exacerbate systemic biases in society. This has led to callsfor regulatory mechanisms and algorithms that are transparent, trustworthy, and fair.  However, it remains unclear what form such mechanisms and algorithms can take.  In this paper we survey recent formal advances put forth by the EU, and consider what other mechanisms can be put in place in order to avoid discrimination and enhance fairness whenit comes to algorithm design and use.  We considerthis to be an important first step – enacting this vi-sion will require a concerted effort by policy makers, lawyers and computer scientist alike.'
+abstract: 'Recent studies suggest that automated processes that are prevalent in machine learning (ML) and artificial intelligence (AI) can propagate and exacerbate systemic biases in society. This has led to calls for regulatory mechanisms and algorithms that are transparent, trustworthy, and fair. However,it remains unclear what form such mechanisms and algorithms can take. In this paper we survey recent formal advances put forth by the EU, and consider what other mechanisms can be put in place in order to avoid discrimination and enhance fairness when it comes to algorithm design and use.  We consider this to be an important first step – enacting this vision will require a concerted effort by policy makers, lawyers and computer scientist alike.'
 publication: '*Proceedings of the IJCAI 2017 workshop on explainable artificial intelligence
   (XAI), Melbourne, Australia*'
 ---

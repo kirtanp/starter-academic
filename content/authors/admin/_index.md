@@ -19,19 +19,19 @@ bio:
 interests:
 - Fairness in Machine learning
 - Interpretable Machine Learning
-- AI Regulation
+- AI Policy and Regulation
 - Theoretical Computer Science
 
 education:
   courses:
   - course: M.Sc. in Computer Science
-    institution: Swiss Federal Institute of Technology (EPFL)
+    institution: Swiss Federal Institute of Technology Lausanne (EPFL)
     year: 2020
   - course: B.S. in Mathematics 
     institution: Indian Institute of Technology Kanpur (IIT Kanpur)
     year: 2016
   - course: Semester Exchange
-    institution: Swiss Federal Institute of Technology (EPFL)
+    institution: Swiss Federal Institute of Technology Lausanne (EPFL)
     year: 2015
 
 # Social/Academic Networking
@@ -67,5 +67,5 @@ user_groups:
 - Visitors
 ---
 
-My goal is to build robust, fair, socially beneficial, and theoretically substantiated AI systems. Automated systems increasingly interact with our daily life, influence our behavior, and often control critical parts of society such as job applications and credit scores. This raises concerns about their interpretability, fairness, and long-term consequences, with various examples of unintentional negative consequences of automated decision making systems having emerged recently. My aim is achieve a better understanding of such biases and find ways to mitigate them.
+Machine learning (ML) is now ubiquitous in society, with applications in critical domains such as health, criminal justice, and credit ratings. This raises concerns about their long-term consequences and ethical implications, with various examples of unintentional negative consequences of automated decision making systems having emerged recently. My aim is achieve a better understanding of such biases and find ways to mitigate them.
 
