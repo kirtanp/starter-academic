@@ -18,7 +18,7 @@ links:
 #  name: Follow
 #  url: 
 url_code: ""
-url_pdf: "/files/sem_project_ola.pdf"
+url_pdf: "/files/exact-matching.pdf"
 url_slides: ""
 url_video: ""
 
