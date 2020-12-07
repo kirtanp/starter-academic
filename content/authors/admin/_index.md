@@ -19,8 +19,10 @@ bio:
 interests:
 - Fairness in Machine learning
 - Interpretable Machine Learning
+- Combinatorial Optimization
+- Approximation Algorithms
 - AI Policy and Regulation
-- Theoretical Computer Science
+- Privacy and Security
 
 education:
   courses:
