@@ -18,6 +18,17 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "External Collaborator"
+  company = "AI Transparency Institute"
+  company_url = "https://aitransparencyinstitute.com/"
+  location = "Lausanne, Switzerland"
+  date_start = "2020-11-01"
+  date_end = "2021-02-01"
+  description = """
+  Helping with operationalizing AI regulation.
+    """
+
+[[experience]]
   title = "Machine Learning Intern"
   company = "Swisscom Digital Lab"
   company_url = ""
@@ -26,6 +37,17 @@ date_format = "Jan 2006"
   date_end = "2020-09-01"
   description = """
   Ensured fairness in a customer-oriented decision making system without losing out on utility. Closely involved in the formulation and implementation of the **Ethics in AI principles** of Swisscom, involving discussion with business stakeholders and members of technical teams across the company. Collaboratively implemented a model-agnostic multi-objective framework in PyTorch officially *open-sourced* through Swisscom.
+    """
+
+[[experience]]
+  title = "Research Assistant"
+  company = "Prof. Ola Svensson, EPFL"
+  company_url = ""
+  location = "Lausanne, Switzerland"
+  date_start = "2016-09-01"
+  date_end = "2018-09-01"
+  description = """
+  Worked on finding approximation algorithms and lower bounds of various combinatorial optimization problems over graphs including local max-cut, exact matching, and the weighted tree augmentation problem.
     """
 
 [[experience]]
