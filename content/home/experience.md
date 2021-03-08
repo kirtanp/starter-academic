@@ -17,6 +17,19 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "PhD candidate"
+  company = "Helmholtz AI"
+  company_url = "helmholtz.ai/"
+  location = "Münich, Germany"
+  date_start = "2021-03-01"
+  date_end = ""
+  description = """
+  Working on causal inference and it's application to fairness in ML.
+  """
+
+
 [[experience]]
   title = "External Collaborator"
   company = "AI Transparency Institute"
@@ -26,7 +39,7 @@ date_format = "Jan 2006"
   date_end = "2021-02-01"
   description = """
   Helping with operationalizing AI regulation.
-    """
+  """
 
 [[experience]]
   title = "Machine Learning Intern"
