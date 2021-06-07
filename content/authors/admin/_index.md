@@ -20,12 +20,14 @@ interests:
 - Fairness in Machine learning
 - Interpretable Machine Learning
 - Combinatorial Optimization
-- Approximation Algorithms
+- Causality
 - AI Policy and Regulation
 - Privacy and Security
 
 education:
   courses:
+  - course: PhD candidate (ongoing)
+    institution: Helmholtz AI, Münich
   - course: M.Sc. in Computer Science
     institution: Swiss Federal Institute of Technology Lausanne (EPFL)
     year: 2020
