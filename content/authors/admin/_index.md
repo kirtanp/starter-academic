@@ -71,5 +71,5 @@ user_groups:
 - Visitors
 ---
 
-Machine learning (ML) is now ubiquitous in society, with applications in critical domains such as health, criminal justice, and credit ratings. This raises concerns about their long-term consequences and ethical implications, with various examples of unintentional negative consequences of automated decision making systems having emerged recently. My aim is achieve a better understanding of such biases and find ways to mitigate them.
+I am  PhD candidate at Helmholtz AI in Munich ,advised by [Niki Kilbertus](https://sites.google.com/view/nikikilbertus). Machine learning (ML) is now ubiquitous in society, with applications in critical domains such as health, criminal justice, and credit ratings. This raises concerns about their long-term consequences and ethical implications, with various examples of unintentional negative consequences of automated decision making systems having emerged recently. My aim is achieve a better understanding of such biases and find ways to mitigate them. With a particular focus on causality. 
 
