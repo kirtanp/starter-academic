@@ -6,23 +6,21 @@ title: Kirtan Padh
 superuser: true
 
 # Role/position
-role: Computer Science Graduate
+role: Doctoral Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: EPFL
-  url: "https://www.epfl.ch/en/"
+- name: Technical University Munich (TUM)
+  url: "https://www.tum.de/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 interests:
-- Fairness in Machine learning
-- Interpretable Machine Learning
-- Combinatorial Optimization
-- Causality
-- AI Policy and Regulation
-- Privacy and Security
+- AI Ethics and Policy
+- Causal Inference
+- Bounding Causal Effects
+- Experimental Design
 
 education:
   courses:
@@ -34,9 +32,6 @@ education:
   - course: B.S. in Mathematics 
     institution: Indian Institute of Technology Kanpur (IIT Kanpur)
     year: 2016
-  - course: Semester Exchange
-    institution: Swiss Federal Institute of Technology Lausanne (EPFL)
-    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,13 +40,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:kirtan.padh@helmholtz-muenchen.de  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/_kirtan_
 - icon: github
   icon_pack: fab
   link: https://github.com/kirtanp
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=WLOtYocAAAAJ&hl=en
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
@@ -71,5 +69,5 @@ user_groups:
 - Visitors
 ---
 
-I am  PhD candidate at Helmholtz AI in Munich, advised by [Niki Kilbertus](https://sites.google.com/view/nikikilbertus). Machine learning (ML) is now ubiquitous in society, with applications in critical domains such as health, criminal justice, and credit ratings. This raises concerns about their long-term consequences and ethical implications, with various examples of unintentional negative consequences of automated decision making systems having emerged recently. My aim is achieve a better understanding of such biases and find ways to mitigate them. With a particular focus on causality. 
+I am  PhD candidate at Helmholtz AI in Munich, advised by [Niki Kilbertus](https://sites.google.com/view/nikikilbertus). I have two primary themes of interest. (1) Questions at the intersection of causality and machine learning. In particular how we can make meaningful causal inferences without making prohibitively strong assumptions. I am also interested in the connections of causality to experimental design. (2) I am passionate about questions related to the ethical implications of AI, and particularly how we can have better regulations to take the good and avoid the bad that comes out of rapid progress in the field.
 

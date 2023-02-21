@@ -1,16 +1,19 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Regulatory mechanisms and algorithms towards trust in AI/ML
+title: Stochastic causal programming for bounding treatment effects
 subtitle: ''
 summary: ''
 authors:
-- Eva Thelisson
 - Kirtan Padh
-- L Elisa Celis
+- Jakob Zeitler
+- David Watson
+- Matt Kusner
+- Ricardo Silva
+- Niki Kilbertus
 tags: []
 categories: []
-date: '2017-01-01'
+date: '2022-01-01'
 lastmod: 2023-02-08T22:21:12+01:00
 featured: false
 draft: false
@@ -29,10 +32,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-02-08T21:21:12.009710Z'
+publishDate: '2023-02-08T21:21:12.155946Z'
 publication_types:
-- '1'
+- '2'
 abstract: ''
-publication: '*Proceedings of the IJCAI 2017 workshop on explainable artificial intelligence
-  (XAI), Melbourne, Australia*'
+publication: '*arXiv preprint arXiv:2202.10806*'
 ---
