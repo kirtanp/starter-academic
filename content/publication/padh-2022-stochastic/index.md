@@ -13,8 +13,8 @@ authors:
 - Niki Kilbertus
 tags: []
 categories: []
-date: '2022-01-01'
-lastmod: 2023-02-08T22:21:12+01:00
+date: '2023-01-01'
+lastmod: 2023-03-23T15:30:16+01:00
 featured: false
 draft: false
 
@@ -32,9 +32,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-02-08T21:21:12.155946Z'
+publishDate: '2023-03-23T14:30:16.626093Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*arXiv preprint arXiv:2202.10806*'
+publication: '*Conference on Causal Learning and Reasoning (CLeaR) 2023*'
 ---

@@ -12,15 +12,18 @@ role: Doctoral Researcher
 organizations:
 - name: Technical University Munich (TUM)
   url: "https://www.tum.de/"
-
+- name: ELLIS Munich
+  url: "https://ellis.eu/phd-postdoc"
+- name: Helmholtz AI
+  url: "https://www.helmholtz.ai/"
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 interests:
-- AI Ethics and Policy
-- Causal Inference
-- Bounding Causal Effects
-- Experimental Design
+- AI Ethics and Fairness
+- Causality and Machine Learning
+- Partial Identification
+- Social Implications of AI
 
 education:
   courses:
@@ -40,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:kirtan.padh@helmholtz-muenchen.de  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:kirtan.padh@helmholtz-munich.de  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/_kirtan_
@@ -69,5 +72,5 @@ user_groups:
 - Visitors
 ---
 
-I am  PhD candidate at Helmholtz AI in Munich, advised by [Niki Kilbertus](https://sites.google.com/view/nikikilbertus). I have two primary themes of interest. (1) Questions at the intersection of causality and machine learning. In particular how we can make meaningful causal inferences without making prohibitively strong assumptions. I am also interested in the connections of causality to experimental design. (2) I am passionate about questions related to the ethical implications of AI, and particularly how we can have better regulations to take the good and avoid the bad that comes out of rapid progress in the field.
+I am  PhD candidate at Helmholtz AI in Munich, advised by [Prof. Niki Kilbertus](https://sites.google.com/view/nikikilbertus). I have two primary themes of interest. (1) Questions at the intersection of causality and machine learning. In particular how we can make meaningful causal inferences without making prohibitively strong assumptions, and how we can apply it to the real world. (2) I am passionate about questions related to the societal implications of AI, and particularly how we can have better controls and checks to take the good and avoid the bad that comes with rapid progress in the field.
 
