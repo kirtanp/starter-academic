@@ -43,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:kirtan.padh@helmholtz-munich.de  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:kirtan.padh@tum.de  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/_kirtan_
